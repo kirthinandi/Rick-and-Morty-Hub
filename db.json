@@ -8778,6 +8778,16 @@
       },
       "species": "Alien",
       "id": 401
+    },
+    {
+      "name": "k",
+      "image": "https://c8.alamy.com/comp/G3F7GK/vector-illustration-of-green-alien-cartoon-G3F7GK.jpg",
+      "status": "Alive",
+      "location": {
+        "name": "maui"
+      },
+      "species": "alien",
+      "id": 402
     }
   ]
 }

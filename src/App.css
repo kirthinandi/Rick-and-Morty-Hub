@@ -299,3 +299,11 @@ input {
   background-color:  rgb(48, 192, 185);
 }
 
+.titles {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+}
+
+.char-image {
+  height: 275px;
+}
