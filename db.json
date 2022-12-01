@@ -8788,6 +8788,16 @@
       },
       "species": "alien",
       "id": 402
+    },
+    {
+      "name": "Dr. wong",
+      "image": "https://www.looper.com/img/gallery/best-rick-and-morty-supporting-characters-not-related-to-them/intro-1610044509.jpg",
+      "status": "alive",
+      "location": {
+        "name": "usa"
+      },
+      "species": "human",
+      "id": 403
     }
   ]
 }
